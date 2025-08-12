@@ -1,4 +1,4 @@
-# Żeby uruchomić wytrenowany model na innym urządzeniu należy przenieść plik modelu jak i skrypt, który go ładuje oraz uruchamia predykcję
+# Żeby uruchomić wytrenowany model na innym urządzeniu należy przenieść plik zapisanego modelu jak i skrypt, który go ładuje oraz uruchamia predykcję
 
 import matplotlib.pyplot as plt
 import numpy as np
